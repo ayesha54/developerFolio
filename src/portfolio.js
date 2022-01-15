@@ -39,7 +39,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "BACKEND DEVELOPER WITH A DEVOPS MINDSET",
+  subTitle: "BACKEND DEVELOPMENT WITH A DEVOPS MINDSET",
   skills: [
     emoji(
       "⚡ Major Skills (Containerization, Kubernetes, OpenShift, Golang, Vmware Vsphere)"
@@ -86,14 +86,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Openshift",
       fontAwesomeClassname: "fab fa-redhat"
-    },
-    {
-      skillName: "Vmware Vsphere",
-      fontAwesomeClassname: "fab fa-cloud"
-    },
-    {
-      skillName: "Kubernetes",
-      fontAwesomeClassname: "fab fa-magic"
     },
     {
       skillName: "sql-database",
@@ -154,7 +146,7 @@ const workExperiences = {
     {
       role: "Software Engineer - OpenShift Core Engineering",
       company: "Red Hat",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/facebookLogo.svg"),
       date: "June 2021 – Present",
       desc: "Red Hat OpenShift Container Platform is an enterprise-grade Kubernetes container platform that automates operations across the stack to make it even easier to manage hybrid and multi-clouds. It enables faster application deployment and increases developer productivity. Automate lifecycle management for more security, customized and easy-to-use cluster operations, and portable applications.",
       descBullets: [
@@ -182,7 +174,7 @@ const workExperiences = {
     {
       role: "Software Development Engineer",
       company: "Securiti.ai",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/airbnbLogo.jpeg"),
       date: "Feb 2019 – Nov 2020",
       desc: "SECURITI.ai is an innovator of AI-Powered cybersecurity and data protection solutions. Its product-suite, PRIVACI.ai is the world’s first PrivacyOps platform that helps automate all major functions needed for privacy compliance in one place. It enables enterprises to give rights to people on their data, be responsible custodians of people’s data, comply with global privacy regulations and bolster their brands. For more information, please visit www.privaci.ai.",
       descBullets: [
