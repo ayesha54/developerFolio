@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe9c6f4ce47369d9a872c926ea039f41",
+    "revision": "9ec66566c3cfbcc27e528bd520845853",
     "url": "/developerfolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerfolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "14bc08f7bc013cd109f7",
+    "revision": "42730ac58e9ab5dd3dde",
     "url": "/developerfolio/static/css/main.78532689.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerfolio/static/js/4.221f4606.chunk.js"
   },
   {
-    "revision": "14bc08f7bc013cd109f7",
-    "url": "/developerfolio/static/js/main.0830b3df.chunk.js"
+    "revision": "42730ac58e9ab5dd3dde",
+    "url": "/developerfolio/static/js/main.9a6a0918.chunk.js"
   },
   {
     "revision": "b80240a4f81646697527",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerfolio/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
-    "url": "/developerfolio/static/media/airbnbLogo.c59720d6.png"
+    "revision": "988c4f6a1500b59331225c3c118298c3",
+    "url": "/developerfolio/static/media/airbnbLogo.988c4f6a.jpeg"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
@@ -64,16 +64,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerfolio/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
-    "url": "/developerfolio/static/media/facebookLogo.8ddf76a1.png"
+    "revision": "b1f8636c6e92547e3827691a568abf27",
+    "url": "/developerfolio/static/media/facebookLogo.b1f8636c.svg"
   },
   {
     "revision": "e79c639294c805688be731921368c8f8",
     "url": "/developerfolio/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "35ef5e915631be2c31ccdff55b53db29",
-    "url": "/developerfolio/static/media/harvardLogo.35ef5e91.png"
+    "revision": "cb7ea05f0fb6316a827f91a1a2f94be2",
+    "url": "/developerfolio/static/media/harvardLogo.cb7ea05f.png"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerfolio/static/media/pwaLogo.ee62cb58.webp"
   },
   {
-    "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
-    "url": "/developerfolio/static/media/quoraLogo.4b2938b9.png"
+    "revision": "c8b8eb7a29ef4976ff32a6f6605bb963",
+    "url": "/developerfolio/static/media/quoraLogo.c8b8eb7a.png"
   },
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
