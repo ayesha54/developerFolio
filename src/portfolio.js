@@ -107,7 +107,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Jinnah University For Women",
-      logo: require("./assets/images/harvardLogo.jpeg"),
+      logo: require("./assets/images/uni.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "January 2015 - Decemeber 2018",
       descBullets: [
@@ -197,8 +197,8 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME OPEN SOURCE PROJECTs I AM WORKING ON",
+  title: "OPEN SOURCE PROJECTs",
+  subtitle: "SOME OPEN SOURCE PROJECTS I AM WORKING ON",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.png"),
