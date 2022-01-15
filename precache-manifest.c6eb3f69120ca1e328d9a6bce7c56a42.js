@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b015691297ae175726408d086f223b71",
+    "revision": "b9c7d53ffbd4a5e03187997004b86518",
     "url": "/developerFolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "8762c099652c1216f074",
+    "revision": "678a74765263996a90bd",
     "url": "/developerFolio/static/css/main.dcf76762.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/js/4.651aed64.chunk.js"
   },
   {
-    "revision": "8762c099652c1216f074",
-    "url": "/developerFolio/static/js/main.5a468ced.chunk.js"
+    "revision": "678a74765263996a90bd",
+    "url": "/developerFolio/static/js/main.39a9e5cc.chunk.js"
   },
   {
     "revision": "7bc38460e727b3b5cb93",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "d9df70cb69b0add522875351d9b26dfd",
-    "url": "/developerFolio/static/media/pwaLogo.d9df70cb.jpeg"
+    "revision": "c8a92757b80b180eedb7429d5197b46a",
+    "url": "/developerFolio/static/media/pwaLogo.c8a92757.jpeg"
   },
   {
     "revision": "205c582f0e608967c985f3b7ebf0da88",
