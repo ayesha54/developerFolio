@@ -14,8 +14,8 @@ const greeting = {
   username: "Ayesha Kaleem",
   title: "Hi all, I'm Ayesha",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
-  ),
+    "A passionate Software Engineer 🚀 having an experience of Backend Development and DevOps using Golang / Python / Docker / Kubernetes /Openshift and some other cool libraries and frameworks."
+      ),
   resumeLink:
     "https://drive.google.com/file/d/1LMdiu-fwTE24KXI2K8yzx4PljEVVAJOG/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -39,15 +39,28 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "BACKEND DEVELOPER WITH A DEVOPS MINDSET",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Major Skills (Containerization, Kubernetes, OpenShift, Golang, Vmware Vsphere)"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ General Programming (Python, C/C++, Java, Golang)"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Web Development (Ruby on Rails (MVC), JavaScript, HTML5, CSS3, Bootstrap, Laravel, PHP)"
+    ),
+    emoji(
+      "⚡ Open-Source Automation Tools (Bash scripting, Dockers, Kubernetes, Terraform)"
+    ),
+    emoji(
+      "⚡ Databases (SQL-server, MySQL, Postgresql)"
+    ),
+    emoji(
+      "⚡ Operating Systems (Windows, Linux Server (Ubuntu, CentOS), Unix (macOS))"
+    ),
+    emoji(
+      "⚡ Version Control Systems and Software Project management tools (Jira, GitHub, Bit Bucket)"
     )
+
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -55,36 +68,32 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "Golang",
+      fontAwesomeClassname: "fab fa-google"
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
+      skillName: "Python",
+      fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "docker",
+      fontAwesomeClassname: "fab fa-docker"
     },
     {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
+      skillName: "Linux",
+      fontAwesomeClassname: "fab fa-linux"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
+      skillName: "Openshift",
+      fontAwesomeClassname: "fab fa-redhat"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      skillName: "Vmware Vsphere",
+      fontAwesomeClassname: "fab fa-cloud"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
+      skillName: "Kubernetes",
+      fontAwesomeClassname: "fab fa-magic"
     },
     {
       skillName: "sql-database",
@@ -94,18 +103,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
     },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
+    
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -116,24 +114,14 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
+      schoolName: "Jinnah University For Women",
       logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
-    },
-    {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
-    }
+      duration: "January 2015 - Decemeber 2018",
+      descBullets: [
+        "https://cs.juw.edu.pk/computerscience.html"
+      ]
+    }  
   ]
 };
 
@@ -143,16 +131,16 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      Stack: "Backend Developent", //Insert stack or technology you have experience in
+      progressPercentage: "80%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
+      Stack: "DevOps",
       progressPercentage: "70%"
     },
     {
       Stack: "Programming",
-      progressPercentage: "60%"
+      progressPercentage: "80%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -164,29 +152,44 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
+      role: "Software Engineer - OpenShift Core Engineering",
+      company: "Red Hat",
       companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      date: "June 2021 – Present",
+      desc: "Red Hat OpenShift Container Platform is an enterprise-grade Kubernetes container platform that automates operations across the stack to make it even easier to manage hybrid and multi-clouds. It enables faster application deployment and increases developer productivity. Automate lifecycle management for more security, customized and easy-to-use cluster operations, and portable applications.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Working with the Core Openshift Engineering team to add features and resolve bugs in the Openshift Installer and other Openshift repositories using Golang.",
+        "Implement and manage CI/CD pipelines.",
+        "Building and managing Openshift clusters on Vmware Vsphere",
+        "Developing python notebooks for monitoring the data",
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
+      role: "Backend/DevOps Software Engineer",
+      company: "Infinite Devices GmbH",
       companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "November 2020 – May 2021",
+      desc: "Infinite Devices is a German start-up that strives to revolutionize the IoT market. Our infinimesh IoT platform creates the backbone for the communication of millions of IoT devices. infinimesh is unique in that it provides fast, highly-scalable, and secure connectivity and handles the data processing for IoT fleets and spheres of any size at low costs. Hosted in Germany, infinimesh fully complies with the GDPR requirements.",
+      descBullets: [
+        "Implement and improve monitoring and alerting.",
+        "Build and maintain highly available systems on Kubernetes.",
+        "Implement and manage CI/CD pipelines.",
+        "Implement an auto-scaling system for our Kubernetes nodes.",
+        "Participate in on-call rotations.",
+        "Developing Application and fix issues in Golang."
+      ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
+      role: "Software Development Engineer",
+      company: "Securiti.ai",
       companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "Feb 2019 – Nov 2020",
+      desc: "SECURITI.ai is an innovator of AI-Powered cybersecurity and data protection solutions. Its product-suite, PRIVACI.ai is the world’s first PrivacyOps platform that helps automate all major functions needed for privacy compliance in one place. It enables enterprises to give rights to people on their data, be responsible custodians of people’s data, comply with global privacy regulations and bolster their brands. For more information, please visit www.privaci.ai.",
+      descBullets: [
+        "Developing/Managing Python Microservices and Middlewares.",
+        "Research and analysis of cybersecurity regulatory compliances and frameworks.",
+        "Bash Scripting and expertise on tools like Dockers etc."
+      ]
     }
   ]
 };
@@ -203,28 +206,39 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "SOME OPEN SOURCE PROJECTs I AM WORKING ON",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Openshift",
+      projectDesc: "Red Hat OpenShift Container Platform",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Visit Github Repo",
+          url: "https://github.com/openshift/installer"
         }
         //  you can add extra buttons here.
       ]
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Infinimesh-Operator",
+      projectDesc: "Kubernetes Operator - Automating the Container Orchestration Platform",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "Visit Github Repo",
+          url: "https://github.com/InfiniteDevices/operator"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/nextuLogo.webp"),
+      projectName: "Infinimesh",
+      projectDesc: "Web Application Developed in Golang",
+      footerLink: [
+        {
+          name: "Visit Github Repo",
+          url: "https://github.com/InfiniteDevices/infinimesh"
         }
       ]
     }
@@ -242,47 +256,45 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Awards and Badges",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "Awards and Badges",
       image: require("./assets/images/codeInLogo.webp"),
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          name: "Web Development Competition at Developers Day FAST NUCES 2017",
+          url: "https://i.ibb.co/r6hLRZd/scan0003-page-001.jpg"
         },
         {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
+          name: "Bertelsmann Data Science Challenge Scholarship Online Course on Udacity",
+          },
         {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "Gold Badge Python - Hackerrank",
+          url: "https://www.hackerrank.com/akaleem306"
         }
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Participations and Self Learning",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+        "Certificate of Participations and Self Learning",
       image: require("./assets/images/googleAssistantLogo.webp"),
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "View the Certificates",
+          url: "https://ibb.co/album/d6y05a"
         }
       ]
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      title: "Licenses & Certifications",
+      subtitle: "Licenses & Certifications",
       image: require("./assets/images/pwaLogo.webp"),
       footerLink: [
-        {name: "Certification", url: ""},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "Self Learning Certifications",
+          url: "https://ibb.co/album/hFChJv"
         }
       ]
     }
@@ -311,7 +323,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -330,7 +342,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -343,21 +355,20 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+  email_address: "akaleem306@gmail.com"
 };
 
 // Twitter Section
 
 const twitterDetails = {
-  userName: "twitter", //Replace "twitter" with your twitter username without @
+  userName: "Ayesha546", //Replace "twitter" with your twitter username without @
   display: true // Set true to display this section, defaults to false
 };
 
