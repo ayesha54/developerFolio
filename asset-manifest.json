@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.dcf76762.chunk.css",
-    "main.js": "/developerFolio/static/js/main.0a5fb371.chunk.js",
-    "main.js.map": "/developerFolio/static/js/main.0a5fb371.chunk.js.map",
+    "main.js": "/developerFolio/static/js/main.2eac2122.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.2eac2122.chunk.js.map",
     "runtime-main.js": "/developerFolio/static/js/runtime-main.53679ee4.js",
     "runtime-main.js.map": "/developerFolio/static/js/runtime-main.53679ee4.js.map",
     "static/js/2.90afb488.chunk.js": "/developerFolio/static/js/2.90afb488.chunk.js",
@@ -14,25 +14,24 @@
     "static/js/4.221f4606.chunk.js": "/developerFolio/static/js/4.221f4606.chunk.js",
     "static/js/4.221f4606.chunk.js.map": "/developerFolio/static/js/4.221f4606.chunk.js.map",
     "index.html": "/developerFolio/index.html",
-    "precache-manifest.24beceaae688034f0f7844f84de60999.js": "/developerFolio/precache-manifest.24beceaae688034f0f7844f84de60999.js",
+    "precache-manifest.ad1ffed8adbaf8d1765398320e41708f.js": "/developerFolio/precache-manifest.ad1ffed8adbaf8d1765398320e41708f.js",
     "service-worker.js": "/developerFolio/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/developerFolio/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/developerFolio/static/css/4.e91a4b36.chunk.css.map",
     "static/css/main.dcf76762.chunk.css.map": "/developerFolio/static/css/main.dcf76762.chunk.css.map",
     "static/js/2.90afb488.chunk.js.LICENSE.txt": "/developerFolio/static/js/2.90afb488.chunk.js.LICENSE.txt",
     "static/media/index.css": "/developerFolio/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/airbnbLogo.jpeg": "/developerFolio/static/media/airbnbLogo.988c4f6a.jpeg",
     "static/media/codeInLogo.webp": "/developerFolio/static/media/codeInLogo.47a7a717.webp",
     "static/media/contactMailDark.svg": "/developerFolio/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.59389695.svg",
-    "static/media/facebookLogo.svg": "/developerFolio/static/media/facebookLogo.b1f8636c.svg",
+    "static/media/facebookLogo.png": "/developerFolio/static/media/facebookLogo.8d9758d2.png",
     "static/media/googleAssistantLogo.webp": "/developerFolio/static/media/googleAssistantLogo.e79c6392.webp",
-    "static/media/harvardLogo.png": "/developerFolio/static/media/harvardLogo.cb7ea05f.png",
+    "static/media/harvardLogo.jpeg": "/developerFolio/static/media/harvardLogo.6f5fb09e.jpeg",
     "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.52be3144.svg",
     "static/media/nextuLogo.webp": "/developerFolio/static/media/nextuLogo.829ad0a1.webp",
     "static/media/pwaLogo.webp": "/developerFolio/static/media/pwaLogo.ee62cb58.webp",
-    "static/media/quoraLogo.png": "/developerFolio/static/media/quoraLogo.c8b8eb7a.png",
-    "static/media/saayaHealthLogo.webp": "/developerFolio/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/quoraLogo.png": "/developerFolio/static/media/quoraLogo.205c582f.png",
+    "static/media/saayaHealthLogo.png": "/developerFolio/static/media/saayaHealthLogo.89ed5d3f.png",
     "static/media/skill.svg": "/developerFolio/static/media/skill.34409398.svg",
     "static/media/TalkCard.scss": "/developerFolio/static/media/talksCardBack.13780cdd.svg"
   },
@@ -40,6 +39,6 @@
     "static/js/runtime-main.53679ee4.js",
     "static/js/2.90afb488.chunk.js",
     "static/css/main.dcf76762.chunk.css",
-    "static/js/main.0a5fb371.chunk.js"
+    "static/js/main.2eac2122.chunk.js"
   ]
 }
