@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.dcf76762.chunk.css",
-    "main.js": "/developerFolio/static/js/main.54b81b54.chunk.js",
-    "main.js.map": "/developerFolio/static/js/main.54b81b54.chunk.js.map",
+    "main.js": "/developerFolio/static/js/main.17ce05a7.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.17ce05a7.chunk.js.map",
     "runtime-main.js": "/developerFolio/static/js/runtime-main.6674d9b6.js",
     "runtime-main.js.map": "/developerFolio/static/js/runtime-main.6674d9b6.js.map",
     "static/js/2.3a0db14e.chunk.js": "/developerFolio/static/js/2.3a0db14e.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.651aed64.chunk.js": "/developerFolio/static/js/4.651aed64.chunk.js",
     "static/js/4.651aed64.chunk.js.map": "/developerFolio/static/js/4.651aed64.chunk.js.map",
     "index.html": "/developerFolio/index.html",
-    "precache-manifest.5560a12e6921f9a0e24ecf1d8344b2e4.js": "/developerFolio/precache-manifest.5560a12e6921f9a0e24ecf1d8344b2e4.js",
+    "precache-manifest.fec9d521253dc6a583ae5fc2f2e4aa9b.js": "/developerFolio/precache-manifest.fec9d521253dc6a583ae5fc2f2e4aa9b.js",
     "service-worker.js": "/developerFolio/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/developerFolio/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/developerFolio/static/css/4.e91a4b36.chunk.css.map",
@@ -26,7 +26,7 @@
     "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.59389695.svg",
     "static/media/facebookLogo.png": "/developerFolio/static/media/facebookLogo.8d9758d2.png",
     "static/media/googleAssistantLogo.webp": "/developerFolio/static/media/googleAssistantLogo.e79c6392.webp",
-    "static/media/harvardLogo.jpeg": "/developerFolio/static/media/harvardLogo.6f5fb09e.jpeg",
+    "static/media/harvardLogo.jpeg": "/developerFolio/static/media/harvardLogo.d06df19b.jpeg",
     "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.52be3144.svg",
     "static/media/pwaLogo.jpeg": "/developerFolio/static/media/pwaLogo.c8a92757.jpeg",
     "static/media/quoraLogo.png": "/developerFolio/static/media/quoraLogo.205c582f.png",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.6674d9b6.js",
     "static/js/2.3a0db14e.chunk.js",
     "static/css/main.dcf76762.chunk.css",
-    "static/js/main.54b81b54.chunk.js"
+    "static/js/main.17ce05a7.chunk.js"
   ]
 }
