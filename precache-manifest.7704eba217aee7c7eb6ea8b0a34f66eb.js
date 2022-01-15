@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57a78d44ff3583c37c2959f4f38b97fc",
+    "revision": "b015691297ae175726408d086f223b71",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "1fa9900e3b2e89c590d8",
+    "revision": "f7afc84358f013063033",
     "url": "/developerFolio/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "08124f85392cc521569f",
+    "revision": "4f86de8502822817a581",
     "url": "/developerFolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "69605cf9668addc8911f",
+    "revision": "8762c099652c1216f074",
     "url": "/developerFolio/static/css/main.dcf76762.chunk.css"
   },
   {
-    "revision": "6b48d8bb57adc4f45497",
-    "url": "/developerFolio/static/js/2.90afb488.chunk.js"
+    "revision": "bac30e007fa6d0185fc5",
+    "url": "/developerFolio/static/js/2.3a0db14e.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/developerFolio/static/js/2.90afb488.chunk.js.LICENSE.txt"
+    "url": "/developerFolio/static/js/2.3a0db14e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1fa9900e3b2e89c590d8",
-    "url": "/developerFolio/static/js/3.d4738361.chunk.js"
+    "revision": "f7afc84358f013063033",
+    "url": "/developerFolio/static/js/3.b6a4d920.chunk.js"
   },
   {
-    "revision": "08124f85392cc521569f",
-    "url": "/developerFolio/static/js/4.221f4606.chunk.js"
+    "revision": "4f86de8502822817a581",
+    "url": "/developerFolio/static/js/4.651aed64.chunk.js"
   },
   {
-    "revision": "69605cf9668addc8911f",
-    "url": "/developerFolio/static/js/main.2eac2122.chunk.js"
+    "revision": "8762c099652c1216f074",
+    "url": "/developerFolio/static/js/main.5a468ced.chunk.js"
   },
   {
-    "revision": "3538875a33fbe5dc96e9",
-    "url": "/developerFolio/static/js/runtime-main.53679ee4.js"
+    "revision": "7bc38460e727b3b5cb93",
+    "url": "/developerFolio/static/js/runtime-main.6674d9b6.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "47a7a717679b640ceb1b05d38c480a61",
-    "url": "/developerFolio/static/media/codeInLogo.47a7a717.webp"
+    "revision": "a1ee4f2491a4fb4512e56b9beffe8a1d",
+    "url": "/developerFolio/static/media/codeInLogo.a1ee4f24.png"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
@@ -76,12 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/developerFolio/static/media/nextuLogo.829ad0a1.webp"
-  },
-  {
-    "revision": "ee62cb58630f29a6e6201b49d4c03728",
-    "url": "/developerFolio/static/media/pwaLogo.ee62cb58.webp"
+    "revision": "d9df70cb69b0add522875351d9b26dfd",
+    "url": "/developerFolio/static/media/pwaLogo.d9df70cb.jpeg"
   },
   {
     "revision": "205c582f0e608967c985f3b7ebf0da88",
