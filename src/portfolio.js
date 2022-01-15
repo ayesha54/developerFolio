@@ -14,7 +14,7 @@ const greeting = {
   username: "Ayesha Kaleem",
   title: "Hi all, I'm Ayesha",
   subTitle: emoji(
-    "A passionate Software Engineer 🚀 having an experience of Backend Development and DevOps using Golang / Python / Docker / Kubernetes /Openshift and some other cool libraries and frameworks."
+    "A passionate Software Engineer 🚀 having an experience of Backend Development and DevOps using Golang / Python / Docker / Kubernetes /Openshift and some other cool technologies."
       ),
   resumeLink:
     "https://drive.google.com/file/d/1LMdiu-fwTE24KXI2K8yzx4PljEVVAJOG/view?usp=sharing", // Set to empty to hide the button
@@ -107,7 +107,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Jinnah University For Women",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/harvardLogo.jpeg"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "January 2015 - Decemeber 2018",
       descBullets: [
@@ -146,7 +146,7 @@ const workExperiences = {
     {
       role: "Software Engineer - OpenShift Core Engineering",
       company: "Red Hat",
-      companylogo: require("./assets/images/facebookLogo.svg"),
+      companylogo: require("./assets/images/facebookLogo.png"),
       date: "June 2021 – Present",
       desc: "Red Hat OpenShift Container Platform is an enterprise-grade Kubernetes container platform that automates operations across the stack to make it even easier to manage hybrid and multi-clouds. It enables faster application deployment and increases developer productivity. Automate lifecycle management for more security, customized and easy-to-use cluster operations, and portable applications.",
       descBullets: [
@@ -174,7 +174,7 @@ const workExperiences = {
     {
       role: "Software Development Engineer",
       company: "Securiti.ai",
-      companylogo: require("./assets/images/airbnbLogo.jpeg"),
+      companylogo: require("./assets/images/airbnbLogo.png"),
       date: "Feb 2019 – Nov 2020",
       desc: "SECURITI.ai is an innovator of AI-Powered cybersecurity and data protection solutions. Its product-suite, PRIVACI.ai is the world’s first PrivacyOps platform that helps automate all major functions needed for privacy compliance in one place. It enables enterprises to give rights to people on their data, be responsible custodians of people’s data, comply with global privacy regulations and bolster their brands. For more information, please visit www.privaci.ai.",
       descBullets: [
@@ -201,7 +201,7 @@ const bigProjects = {
   subtitle: "SOME OPEN SOURCE PROJECTs I AM WORKING ON",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/saayaHealthLogo.png"),
       projectName: "Openshift",
       projectDesc: "Red Hat OpenShift Container Platform",
       footerLink: [
@@ -213,7 +213,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/quoraLogo.png"),
       projectName: "Infinimesh-Operator",
       projectDesc: "Kubernetes Operator - Automating the Container Orchestration Platform",
       footerLink: [
@@ -224,7 +224,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/quoraLogo.png"),
       projectName: "Infinimesh",
       projectDesc: "Web Application Developed in Golang",
       footerLink: [
@@ -251,7 +251,7 @@ const achievementSection = {
       title: "Awards and Badges",
       subtitle:
         "Awards and Badges",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/codeInLogo.png"),
       footerLink: [
         {
           name: "Web Development Competition at Developers Day FAST NUCES 2017",
@@ -282,7 +282,7 @@ const achievementSection = {
     {
       title: "Licenses & Certifications",
       subtitle: "Licenses & Certifications",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/pwaLogo.jpeg"),
       footerLink: [
         {
           name: "Self Learning Certifications",
@@ -301,21 +301,21 @@ const blogSection = {
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
-  blogs: [
-    {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-      description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
-    },
-    {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
-    }
-  ],
-  display: false // Set false to hide this section, defaults to true
+  // blogs: [
+  //   {
+  //     url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
+  //     title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+  //     description:
+  //       "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+  //   },
+  //   {
+  //     url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
+  //     title: "Why REACT is The Best?",
+  //     description:
+  //       "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+  //   }
+  // ],
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
