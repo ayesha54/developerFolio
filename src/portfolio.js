@@ -345,9 +345,8 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
-  ],
-  display: false // Set false to hide this section, defaults to true
+    "https://youtu.be/bg4gNxlAk2Q"  ],
+  display: true // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
